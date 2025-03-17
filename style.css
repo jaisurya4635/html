@@ -1,0 +1,21 @@
+
+.front {
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    gap: 400px; 
+}
+
+div{
+    
+    width: 100%;
+    display: flex;
+    padding: 20px;
+}
+.text{
+    text-size-adjust: 8000%;
+    size: 100%;
+}
+p{
+    text-size-adjust: 1000%;
+}
